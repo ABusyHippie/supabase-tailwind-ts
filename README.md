@@ -62,3 +62,21 @@ Checkout the [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) file for common issues.
 Also checkout our premium boilerplate with more features. It includes a fully functional authentication system, user profiles, organisations, row level security, and more.
 
 [![NextBase Boilerplate](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter/blob/main/.github/banner.png?raw=true)](https://usenextbase.com)
+
+## git commit conventions
+
+[
+'build',
+'chore',
+'ci',
+'docs',
+'feat',
+'fix',
+'perf',
+'refactor',
+'revert',
+'style',
+'test'
+];
+echo "foo: some message" # fails
+echo "fix: some message" # passes
