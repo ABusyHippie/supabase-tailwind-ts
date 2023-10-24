@@ -21,6 +21,8 @@ Nextbase Lite is a simple Next.js 13 + Supabase boilerplate. It includes a Next.
 - 💎 Minimal styling
 - 📖 Codebase which is easy to read and modify
 
+Project Home: https://supabase.com/dashboard/project/hnbgymacwrwktacpmhpj
+
 ### Development
 
 1. Clone the repo
@@ -32,6 +34,7 @@ Nextbase Lite is a simple Next.js 13 + Supabase boilerplate. It includes a Next.
 7. Push the database schema to your Supabase project using `yarn supabase db push`.
 8. Generate types for your Supabase tables using `yarn generate:types:local`.
 9. Run `yarn dev` to start the development server.
+10. http://localhost:3000/ to access
 
 ### Testing
 
